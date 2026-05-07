@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:arrow": 2,
+      "minecraft:slime_ball": 34,
+      "minecraft:diamond_sword": 1
+    },
+    "minecraft:killed": {
+      "minecraft:slime": 25,
+      "minecraft:zombie": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 20,
+      "minecraft:diamond_sword": 1,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:slime_ball": 34
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 3
+    },
+    "minecraft:used": {
+      "minecraft:elytra": 2,
+      "minecraft:egg": 28,
+      "minecraft:diamond_sword": 24,
+      "minecraft:cooked_chicken": 1,
+      "minecraft:diamond_chestplate": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 4273,
+      "minecraft:walk_one_cm": 8083,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 26,
+      "minecraft:walk_under_water_one_cm": 546,
+      "minecraft:damage_taken": 100,
+      "minecraft:damage_dealt": 710,
+      "minecraft:play_time": 4273,
+      "minecraft:jump": 118,
+      "minecraft:time_since_death": 4273,
+      "minecraft:aviate_one_cm": 2778,
+      "minecraft:drop": 37,
+      "minecraft:sprint_one_cm": 17225,
+      "minecraft:fall_one_cm": 4002,
+      "minecraft:swim_one_cm": 1567,
+      "minecraft:total_world_time": 6344,
+      "minecraft:fly_one_cm": 23989,
+      "minecraft:walk_on_water_one_cm": 198,
+      "minecraft:crouch_one_cm": 225,
+      "minecraft:sneak_time": 113
+    }
+  },
+  "DataVersion": 4671
+}
