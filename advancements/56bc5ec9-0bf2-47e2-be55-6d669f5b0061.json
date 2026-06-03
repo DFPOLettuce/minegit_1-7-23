@@ -5339,24 +5339,6 @@
     },
     "done": true
   },
-  "jodek:mobs": {
-    "criteria": {
-      "tick": "2026-05-31 15:07:17 -0400"
-    },
-    "done": true
-  },
-  "jodek:no_enderman_grief": {
-    "criteria": {
-      "tick": "2026-05-31 15:07:17 -0400"
-    },
-    "done": true
-  },
-  "jodek:root": {
-    "criteria": {
-      "tick": "2026-05-31 15:07:17 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-05-31 15:21:04 -0400"
